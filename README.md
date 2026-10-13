@@ -73,4 +73,4 @@ questions at a glance:
 ## Author
 
 **Bekir Onal** — Data Analyst
-[LinkedIn](https://www.linkedin.com/in/bekir-onal-63b557250) · [GitHub](https://github.com/bekir35-on)
+[LinkedIn](https://www.linkedin.com/in/bekir-onal-636b57250) · [GitHub](https://github.com/bekir35-on)
